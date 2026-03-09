@@ -1,0 +1,5 @@
+{
+  "name": "Serine's BAC Guide",
+  "description": "A personalized offline-first PWA to help Serine crush her June 2026 Algerian BAC exams (Scientific stream).",
+  "requestFramePermissions": ["screen-wake-lock"]
+}
